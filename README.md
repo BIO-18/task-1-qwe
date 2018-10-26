@@ -2,15 +2,15 @@
 
 ### Task 1
 #### Desciption
-Enter answer here
+50
 
 ### Task 2
 #### Desciption
-Enter answer here
+Да
 
 ### Task 3
 #### Desciption
-Enter answer here
+Франция
 
 ### Task 4
 #### Desciption
