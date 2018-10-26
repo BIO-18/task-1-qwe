@@ -2,16 +2,16 @@
 
 ### Task 1
 #### Desciption
-50
+150
 
 ### Task 2
 #### Desciption
-Да
+Да 567
 
 ### Task 3
 #### Desciption
-Франция
+Франция 778
 
 ### Task 4
 #### Desciption
-Enter answer here
+123
